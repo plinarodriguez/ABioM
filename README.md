@@ -13,7 +13,7 @@ Additionally, Trello Board templates were created for managing the project model
 * [ABioM Trello Board](https://trello.com/b/nWsNt41M/abiom-template)
 * [Credibility Goals Trello Board](https://trello.com/b/OfRiqlqk/credibility-factors-template)
 
-Note: For your personal use please copy the Trello board and save as your own. If you have any comments or ideas on the current cards (i.e. gradations) feel free to make relevant comments.
+Note: For your personal use please copy the Trello board template. Also, we would appreciate your constructive feedback or ideas on the current cards(i.e. gradations) by using the comment feature on the board.
 
 ## Authors
 Paulina Rodriguez, Ahmad Dibaji, Bruce Murray, Matthew Myers, Pras Pathmanathan, Tina Morrison
