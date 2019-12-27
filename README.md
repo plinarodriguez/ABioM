@@ -1,6 +1,12 @@
 # Agile for Biomedical Modeling (ABioM)
 
-Agile for Biomedical modeling (ABioM) is a framework for translational science applications that supports the entire process of model development, adaptability, transparency, credibility building, testing and quality assurance, and applicability to the context of use. ABioM manages all modeling project lifecycle efforts including model development, bench-top experiments, and credibility building. (A manuscript is in the works for additional details regarding the framework.) 
+Agile for Biomedical modeling (ABioM) is a framework for translational science applications that supports the entire process of model development, adaptability, transparency, credibility building, testing and quality assurance, and applicability to the context of use. ABioM manages all modeling project lifecycle efforts including model development, bench-top experiments, and credibility building. 
+
+For additional details regarding the framework please see previous conference presentation here: 
+
+* [ABioM Presenation V&V Symposium 2019](https://figshare.com/articles/ABioM_Presentation/8320517)
+
+Note: A manuscript is in the works! 
 
 ## ABioM Tools
 This Repository includes helpful tools and template for implementing ABioM that complement the methodology in the paper: 
