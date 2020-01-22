@@ -11,7 +11,7 @@ Note: A manuscript is in the works!
 ## ABioM Tools
 This Repository includes helpful tools and template for implementing ABioM that complement the methodology in the paper: 
 
-* Applicability Assessment Plan (based on the [Applicability Assessment Framework](https://asmedigitalcollection.asme.org/verification/article-abstract/2/2/021005/447649/Applicability-Analysis-of-Validation-Evidence-for?redirectedFrom=fulltext)
+* Applicability Assessment Plan (based on the [Applicability Assessment Framework](https://asmedigitalcollection.asme.org/verification/article-abstract/2/2/021005/447649/Applicability-Analysis-of-Validation-Evidence-for?redirectedFrom=fulltext))
 * Ranking of Confidence and Knowledge of Interactions (or phenomena) Table (ROCKIT) 
 
 Additionally, Trello Board templates were created for managing the project modeling lifecycle and the credibility efforts: 
