@@ -6,7 +6,7 @@ For additional details regarding the framework please see previous conference pr
 
 * [ABioM Presenation V&V Symposium 2019](https://figshare.com/articles/ABioM_Presentation/8320517)
 
-Note: A manuscript is in the works! 
+Note: Manuscript under review by the Journal of Verification, Validation and Uncertainty Quantification.
 
 ## ABioM Tools
 This Repository includes helpful tools and template for implementing ABioM that complement the methodology in the paper: 
